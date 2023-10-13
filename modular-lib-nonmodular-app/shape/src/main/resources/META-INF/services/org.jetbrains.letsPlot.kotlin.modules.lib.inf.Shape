@@ -1,0 +1,3 @@
+org.jetbrains.letsPlot.kotlin.modules.lib.impl.Circle
+org.jetbrains.letsPlot.kotlin.modules.lib.impl.Square
+org.jetbrains.letsPlot.kotlin.modules.lib.impl.Rectangle
